@@ -25,11 +25,6 @@ const Footer = () => {
               </Link>
             </li>
             <li>
-              <Link to=" " className="text-black hover:underline text-black">
-                Services
-              </Link>
-            </li>
-            <li>
               <Link to=" " className="text- black hover:underline text-black">
                 Contact
               </Link>
